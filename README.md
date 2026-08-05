@@ -2,6 +2,12 @@
 
 [日本語 (Japanese)](#japanese) | [English](#english)
 
+
+* **Landing Page**: [https://tztechno.github.io/proj12](https://tztechno.github.io/proj12)
+* **Main Product Page**: [https://cyber-matrix.netlify.app/products/chess](https://cyber-matrix.netlify.app/products/chess)
+* **Official WebAssembly Engine Repository**: [https://github.com/tztechno/cyber_chess_v3_desktop_engines](https://github.com/tztechno/cyber_chess_v3_desktop_engines)
+
+
 ---
 
 <a id="japanese"></a>
